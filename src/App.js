@@ -1,22 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import { AppFooter } from "./cmps/app-footer";
+import { AppHeader } from "./cmps/app-header";
+import { BuildManage } from "./cmps/build-manage";
+import { FindTalent } from "./cmps/find-talent";
+import { GetStarted } from "./cmps/get-started";
+import { SuccessStories } from "./cmps/success-stories";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App main-container">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <AppHeader />
+        <FindTalent />
+        <BuildManage />
+        <SuccessStories />
+        <GetStarted />
+        {/* <AppFooter /> */}
       </header>
     </div>
   );

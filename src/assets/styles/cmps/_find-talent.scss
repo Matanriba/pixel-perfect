@@ -1,0 +1,25 @@
+.find-talent {
+  padding: 0;
+  .text-container {
+      gap: 30px;
+      margin-bottom: 120px;
+    h1 {
+        flex-basis: 60%;
+        font-size: rem(100px);
+        color: white;
+        span {
+            color: #f67e7e;
+        }
+    }
+    .find-talent-text {
+        flex-basis: 40%;
+      color: white;
+      justify-content: flex-end;
+      font-size: rem(16px);
+    }
+  }
+  .img-container {
+      width: 300px;
+      align-self: flex-end;
+  }
+}

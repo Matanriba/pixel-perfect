@@ -1,0 +1,43 @@
+.color-container {
+  background-color: #012f34;
+  height: 680px;
+  .build-manage {
+    padding: 70px 0;
+    align-items: center;
+    gap: 50px;
+    h3 {
+      position: relative;
+      top: 45px;
+      color: white;
+      font-family: "livvic-semi-bold";
+      flex-basis: 70%;
+      line-height: 48px;
+    }
+    .right-container {
+      position: relative;
+      top: 100px;
+      gap: 35px;
+      .example-preview {
+        display: flex;
+        gap: 10px;
+        .img-container {
+          width: 72px;
+        }
+        .example-preview-text {
+          color: white;
+          display: flex;
+          flex-direction: column;
+          gap: 10px;
+          .preview-header {
+            color: #f67e7e;
+          }
+        }
+      }
+    }
+  }
+  .pattern {
+    width: 200px;
+    position: absolute;
+    right: -100px;
+  }
+}

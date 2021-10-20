@@ -1,0 +1,61 @@
+.success-stories {
+  text-align: center;
+  color: white;
+  padding: 140px 0;
+  > h3 {
+    margin: auto;
+    width: 930px;
+    line-height: 48px;
+    > span {
+      color: #79c8c7;
+    }
+  }
+  .stories {
+    gap: 30px;
+    .story-preview {
+      > img {
+        height: 53px;
+        width: 67px;
+        position: relative;
+        top: 20px;
+        z-index: -1;
+      }
+      > p {
+        padding-bottom: 28px;
+      }
+      .user-avatar {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        > span {
+          color: #79c8c7;
+          font-family: "livvic-bold";
+          font-size: rem(18px);
+          font-weight: 700;
+          font-style: normal;
+          letter-spacing: normal;
+          line-height: 28px;
+          text-align: center;
+        }
+        > small {
+          color: #ffffff;
+          font-family: "livvic-medium-italic";
+          font-size: rem(13px);
+          font-weight: 500;
+          font-style: normal;
+          letter-spacing: normal;
+          line-height: 18px;
+          text-align: center;
+          padding-bottom: 32px;
+        }
+        > img {
+          width: 62px;
+          border: 2px solid #c4fffe;
+          border-radius: 50%;
+          object-fit: cover;
+          border-radius: 50%;
+        }
+      }
+    }
+  }
+}
