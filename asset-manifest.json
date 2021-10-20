@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/pixel-perfect/static/css/main.3283ac74.chunk.css",
+    "main.js": "/pixel-perfect/static/js/main.1a36196c.chunk.js",
+    "main.js.map": "/pixel-perfect/static/js/main.1a36196c.chunk.js.map",
+    "runtime-main.js": "/pixel-perfect/static/js/runtime-main.c33c3b96.js",
+    "runtime-main.js.map": "/pixel-perfect/static/js/runtime-main.c33c3b96.js.map",
+    "static/js/2.38dbfa20.chunk.js": "/pixel-perfect/static/js/2.38dbfa20.chunk.js",
+    "static/js/2.38dbfa20.chunk.js.map": "/pixel-perfect/static/js/2.38dbfa20.chunk.js.map",
+    "static/js/3.c0e8ce31.chunk.js": "/pixel-perfect/static/js/3.c0e8ce31.chunk.js",
+    "static/js/3.c0e8ce31.chunk.js.map": "/pixel-perfect/static/js/3.c0e8ce31.chunk.js.map",
+    "index.html": "/pixel-perfect/index.html",
+    "static/css/main.3283ac74.chunk.css.map": "/pixel-perfect/static/css/main.3283ac74.chunk.css.map",
+    "static/js/2.38dbfa20.chunk.js.LICENSE.txt": "/pixel-perfect/static/js/2.38dbfa20.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/pixel-perfect/static/media/Livvic-SemiBold.f5f72371.ttf",
+    "static/media/avatar-aiysha.e119a0c1.jpg": "/pixel-perfect/static/media/avatar-aiysha.e119a0c1.jpg",
+    "static/media/avatar-arthur.098c2e26.jpg": "/pixel-perfect/static/media/avatar-arthur.098c2e26.jpg",
+    "static/media/avatar-kady.78fc482c.jpg": "/pixel-perfect/static/media/avatar-kady.78fc482c.jpg",
+    "static/media/bg-pattern-home-2.889d5d8c.svg": "/pixel-perfect/static/media/bg-pattern-home-2.889d5d8c.svg",
+    "static/media/bg-pattern-home-3.4bc172f9.svg": "/pixel-perfect/static/media/bg-pattern-home-3.4bc172f9.svg",
+    "static/media/bg-pattern-home-6-about-5.d6ab17f2.svg": "/pixel-perfect/static/media/bg-pattern-home-6-about-5.d6ab17f2.svg",
+    "static/media/icon-chart.8de3d4d2.svg": "/pixel-perfect/static/media/icon-chart.8de3d4d2.svg",
+    "static/media/icon-cog.c5d2403f.svg": "/pixel-perfect/static/media/icon-cog.c5d2403f.svg",
+    "static/media/icon-facebook.229c75a0.svg": "/pixel-perfect/static/media/icon-facebook.229c75a0.svg",
+    "static/media/icon-person.0a313a85.svg": "/pixel-perfect/static/media/icon-person.0a313a85.svg",
+    "static/media/icon-pinterest.a2d25ab4.svg": "/pixel-perfect/static/media/icon-pinterest.a2d25ab4.svg",
+    "static/media/icon-quotes.c5173921.svg": "/pixel-perfect/static/media/icon-quotes.c5173921.svg",
+    "static/media/icon-twitter.1d5c6d5e.svg": "/pixel-perfect/static/media/icon-twitter.1d5c6d5e.svg",
+    "static/media/logo.9e687f65.svg": "/pixel-perfect/static/media/logo.9e687f65.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c33c3b96.js",
+    "static/js/2.38dbfa20.chunk.js",
+    "static/css/main.3283ac74.chunk.css",
+    "static/js/main.1a36196c.chunk.js"
+  ]
+}
